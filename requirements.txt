@@ -1,0 +1,17 @@
+streamlit
+mysql.connector
+cryptography.fernet
+datetime
+asyncio
+nest_asyncio
+streamlit_webrtc
+av
+cv2 
+numpy as np 
+mediapipe as mp 
+keras.models
+webbrowser 
+os
+pygame
+time
+mutagen.mp3
